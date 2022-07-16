@@ -36,7 +36,7 @@ function syn(d) {
     }
 }
 var server = {
-    host: 'localhost',
+    host: '45.77.73.193',
     port: 8932
 };
 var socket;
